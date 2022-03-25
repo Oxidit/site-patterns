@@ -1,0 +1,33 @@
+// for OLD IE
+document.createElement("main");
+
+// упрвление главным меню
+function hamburger(){
+
+	// ссылка на блок с иконкой гамбургера по id
+	var hamburger_icon = document.getElementById('icon');
+	console.log(hamburger_icon);
+
+	// ссылка на главное меню по id
+	var main_menu = document.getElementById('menu');
+	console.log(main_menu);
+
+	// методы classList.toggle(); 
+	hamburger_icon.onclick = function(){
+		hamburger_icon.classList.toggle('hamburger-icon_image-bottom');
+		main_menu.classList.toggle('main-menu_hidden-for-mobile');
+	}
+
+	// скрываю меню после клика по ссылке
+	main_menu.onclick = function(){
+		var x = window.getComputedStyle(hamburger_icon, null).getPropertyValue('display');
+		if(x == 'block'){		
+			hamburger_icon.classList.toggle('hamburger-icon_image-bottom');
+			main_menu.classList.toggle('main-menu_hidden-for-mobile');
+			console.log('Вы нажали по ссылке и меню закрылось');
+		}
+	}
+
+}
+
+document.addEventListener("DOMContentLoaded", hamburger);
