@@ -5,11 +5,11 @@ That's just a common simple site made with html/css/some javascript as an interi
 **That's how it looks on PC:**
  
   
-![PC screen](https://github.com/Oxidit/site-patterns/blob/main/pattern1/MyTemplate.png "Full Screen")
+![PC screen](https://github.com/Oxidit/site-patterns/blob/main/pattern1/MyTemplate1.png "Full Screen")
 
 **That's how it looks on the Mobile device:**
 
-![Mobile screen](https://github.com/Oxidit/site-patterns/blob/main/pattern1/MobileTemplate.png "Reduced Screen")
+![Mobile screen](https://github.com/Oxidit/site-patterns/blob/main/pattern1/MobileTemplate1.png "Reduced Screen")
 
 
 # Currently supported functionality
