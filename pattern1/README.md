@@ -4,9 +4,7 @@ That's just a common simple site made with html/css/some javascript as an interi
 
 **That's how it looks on PC:**
  
-  <div>
-        <img src="https://github.com/Oxidit/site-patterns/blob/main/pattern1/MobileTemplate.png" style="size: 30%" >
-    </div>
+  
 ![PC screen](https://github.com/Oxidit/site-patterns/blob/main/pattern1/MyTemplate.png "Full Screen")
 
 **That's how it looks on the Mobile device:**
