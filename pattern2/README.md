@@ -1,6 +1,6 @@
 # What's that?
 
-That's just a common simple site made with html/css/some javascript as an interior design studio pattern.
+That's just a common simple site made with html/css/some javascript as a pattern.
 
 That's how it looks:
 ___________________________________________________________________________________________________________
