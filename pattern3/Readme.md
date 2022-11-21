@@ -16,8 +16,7 @@ ________________________________________________________________________________
 # Currently supported functionality
 
 * Works on Mobile and PC screen
-* You can go to the chosen section with navigation
-* Scrolls and looks pretty cute
+* Scrolls and looks pretty cute because of the layered design
 
 # Terms and conditions.
 No any terms or conditions. Please, feel free to use whatever you like here. :smile:
